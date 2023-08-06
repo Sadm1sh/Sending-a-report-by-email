@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://ic.wampi.ru/2023/08/06/BEZ-IMENI-1.png" height='10'>
+      <img src="https://ic.wampi.ru/2023/08/06/BEZ-IMENI-1.png" height='100'>
 </p>
 
 ## О проекте
